@@ -38,7 +38,7 @@ $('#hitokoto').mouseover(function (){
 });
 
 $('.waifu-tool .fui-home').click(function (){
-    window.location = 'https://www.cnblogs.com/UncleZhao/';
+    window.location = 'https://www.cnblogs.com/stephenhuashao/';
     //window.location = window.location.protocol+'//'+window.location.hostname+'/'
 });
 
@@ -56,7 +56,7 @@ $('.waifu-tool .fui-user').click(function (){
 });
 
 $('.waifu-tool .fui-info-circle').click(function (){
-    window.open('https://www.cnblogs.com/UncleZhao/p/13744920.html');
+    window.open('https://www.wangsong520.com/');
 });
 
 $('.waifu-tool .fui-cross').click(function (){
@@ -73,7 +73,7 @@ $('.waifu-tool .fui-photo').click(function (){
 
 function waifuWelcome(){
     var text;
-    var SiteIndexUrl = 'https://www.cnblogs.com/UncleZhao/';  // 手动指定主页
+    var SiteIndexUrl = 'https://javabyte.gitee.io/';  // 手动指定主页
     //var SiteIndexUrl = window.location.protocol+'//'+window.location.hostname+'/';  // 自动获取主页
 
     if (window.location.href == SiteIndexUrl) {      // 如果是主页
